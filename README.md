@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Deep Learning**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently an Intern at **Nomura**
 
 - 💬 Ask me about **C/C++, Python, Power BI, Excel, MySQL, Alice 3, Cyber Security**
 
